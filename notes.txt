@@ -1,4 +1,4 @@
-data types
+---data types ---
 1. integer  - numbers
 2. float    - decimals
 3. boolean  - true/false
@@ -7,3 +7,20 @@ data types
 6. tuple    - ()
 7. set      - {}
 8. dictionary   - {}
+
+---control statements ---
+Conditional statements
+    if
+    else
+    elif
+    nested if
+
+Looping statements
+    for
+    while
+    nested loops
+
+Jumping statements
+    pass
+    contineos
+    break
