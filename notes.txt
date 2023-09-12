@@ -24,3 +24,25 @@ Jumping statements
     pass
     contineos
     break
+
+STRING -- collection of characters
+types of strings
+--> single quotes('')
+--> double quotes("")
+--> thriple quotes(''' ''')
+
+string methods::
+--> Lower()
+--> Upper()
+--> ends with()
+--> starts with()
+--> replace()
+--> split()
+--> count()
+--> R strip()
+--> L strip()
+--> strip()
+--> remove prefix()
+--> remove surfix()
+--> index()
+--> find()
