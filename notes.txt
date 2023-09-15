@@ -46,3 +46,33 @@ string methods::
 --> remove surfix()
 --> index()
 --> find()
+
+
+LISTS in python
+
+Methods:
+-->append : data will add end of the list
+-->extend : multiple list data will add in end of the list
+-->remove : it will remove the value in the list
+-->pop    : it will remove the value in list based on index value
+-->count : it will count how many times one value placed in list 
+-->index  : it will provide values index number
+-->insert : we add values in particular index
+[start: stop: skip]
+
+
+Dictionary:
+-> dictionary is a data type in python
+-> it will denoted by {}
+-> key value data (k:v)
+-> key should be immutable
+-> value should be mutable (different types)
+-> key will act as a index
+-> keys are unique
+
+Methods:
+-> get()
+-> update()
+-> values()
+-> keys()
+-> items()
