@@ -76,3 +76,23 @@ Methods:
 -> values()
 -> keys()
 -> items()
+
+Set{}
+-> it will denotes {}
+-> do not allow duplicates
+-> no index, un ordered
+-> do not allow mutable types
+ex: b = {2,4,6,7,'kiran'}
+
+Methods:
+-> add()
+-> update()
+-> pop()
+-> remove()
+
+set Operations:
+-> union()
+-> intersection()
+-> difference()
+-> issubset()
+-> issuperset()
