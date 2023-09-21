@@ -96,3 +96,80 @@ set Operations:
 -> difference()
 -> issubset()
 -> issuperset()
+
+Functions:
+-> block of code
+-> run when it is called
+
+syntax:
+def add(a,b):
+    return a+b
+print(add(2+5))
+
+nested function:
+def outer():
+    print("outer")
+    def inner():
+        print("inner")
+    inner()
+
+outer()
+
+File handling:
+--> Reading, writing, creating, deliting of a files is called file handling
+
+modes:
+-> r - read
+-> w - write
+-> a - append
+-> r+ - read write
+-> w+ - write read (truncate)
+
+Error handling:
+--> Interrupting normal execution of a code is called Error (or) exception.
+    we will handle by using Error handling
+
+Procedural Oriented Programming(POP):
+-> programs are devided into Functions
+-> top down approach
+-> no access specifiers
+-> no data security
+-> no overloading concepts
+ex: C, VB, Fortran, Pascal
+
+
+Object Oriented Programming(OOP):
+-> programs are devided into objects
+-> bottom up appoach
+-> provide access specifiers
+-> data security
+-> function overloading
+-> operator overloading
+-> method overriding
+ex: C++, Java, Python
+
+Class:
+-> template
+-> blue print of an objects
+
+syntax:
+class class_name():
+
+Object:
+-> physical entity
+-> we can create any number of objects for class
+-> memory is allocated when object is created
+
+
+Inheritance:
+--> parent to child
+
+Types:
+-> single inheritance --> pass data from parent to child
+-> multilevel inheritance --> pass data from grandparent to parent, parent to child
+                            p1 ->p2 ->c
+-> multiple inheritance --> two or more parent classes only one child class
+-> hierarchical inheritance --> one parent class multiple child classes
+
+
+
