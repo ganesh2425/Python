@@ -70,3 +70,9 @@ data ={
 df = pandas.DataFrame(data)
 # print(df)
 df.to_csv("Mobiles_data.csv")
+
+
+'''
+
+(imdb, bikewale, zigwheels..etc)
+'''
