@@ -1,0 +1,29 @@
+Web Scraping?
+->web scraping is a computer software technique of extracting information from websites.
+ This technique mostly focuses on the transformation of unstructed data(HTML format)
+ on the web into structured data(spread sheet).
+
+ What is PIP?
+ -> PIP package manager for Python packages.
+ Installations::
+ --> pip install requests
+ --> pip install pandas
+ --> pip install bs4
+ --> pip list
+
+ Machine Learning basics::
+ ->machine learning ia said as a subset of artificial intelligence that is mainly 
+  concerned with the development of algorithms which allow a computer to learn from the
+  past experiences on their own.
+
+What is Data?
+-> data is a Raw facts!
+--> Numerical data
+--> Categorical data
+--> Time series data
+--> Text data
+
+Where we will get the data?
+1. Kggle
+2. Web scraping
+3. Third-party companies

@@ -172,4 +172,18 @@ Types:
 -> hierarchical inheritance --> one parent class multiple child classes
 
 
+Encapsulation:
+-> wrapping of variables and methods into single unit.
+->
+
+Polymorphism:
+-> poly-many
+-> morph-forms
+
+Data abstraction:
+-> hiding of information
+
+
+
+
 
